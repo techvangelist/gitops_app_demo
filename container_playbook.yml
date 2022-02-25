@@ -10,7 +10,7 @@
         state: started
         network: host
         ports:
-            - "8080:8080"
+            - "{{ host_port }}:{{ container_port }}"
         env:
             APP_COLOR: "{{ color }}"
             tree: "{{ tree }}"
