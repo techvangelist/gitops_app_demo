@@ -1,1 +1,1 @@
-# app_demo
+# gitops_app_demo
