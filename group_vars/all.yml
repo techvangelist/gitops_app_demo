@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 color: "RED"
+>>>>>>> 5c2a42d8c309aad8b53292e454dbd42f7bbc404b
 tree: "trunk"
 host_port: 8080
 container_port: 8080
